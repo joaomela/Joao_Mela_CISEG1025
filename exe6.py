@@ -1,0 +1,5 @@
+print("X")
+print("XX")
+print("XXX")
+print("XXXX")
+print("XXXXX")
